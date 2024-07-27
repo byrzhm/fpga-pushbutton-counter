@@ -1,0 +1,1 @@
+    create_clock -name "CLK_FPGA" -period 20.000ns [get_ports {CLK_FPGA}]
